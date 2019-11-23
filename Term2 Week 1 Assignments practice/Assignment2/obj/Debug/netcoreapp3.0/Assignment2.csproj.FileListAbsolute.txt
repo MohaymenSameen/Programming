@@ -1,0 +1,11 @@
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\bin\Debug\netcoreapp3.0\Assignment2.exe
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\bin\Debug\netcoreapp3.0\Assignment2.deps.json
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\bin\Debug\netcoreapp3.0\Assignment2.runtimeconfig.json
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\bin\Debug\netcoreapp3.0\Assignment2.runtimeconfig.dev.json
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\bin\Debug\netcoreapp3.0\Assignment2.dll
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\bin\Debug\netcoreapp3.0\Assignment2.pdb
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\obj\Debug\netcoreapp3.0\Assignment2.csprojAssemblyReference.cache
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\obj\Debug\netcoreapp3.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\obj\Debug\netcoreapp3.0\Assignment2.AssemblyInfo.cs
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\obj\Debug\netcoreapp3.0\Assignment2.dll
+C:\Users\lemon\source\repos\Term2 Week 1 Assignments practice\Assignment2\obj\Debug\netcoreapp3.0\Assignment2.pdb
