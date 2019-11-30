@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Assignment2
 {
@@ -30,24 +31,15 @@ namespace Assignment2
         public List<string> ListOfWords()
         {
             List<string> words = new List<string>();
-            words.Add("last");
-            words.Add("afford");
-            words.Add("excited");
-            words.Add("quarter");
-            words.Add("wall");
-            words.Add("order");
-            words.Add("brush");
-            words.Add("manage");
-            words.Add("terrific");
-            words.Add("highfalutin");
-            words.Add("refuse");
-            words.Add("flock");
-            words.Add("growth");
-            words.Add("camera");
-            words.Add("dear");
-            words.Add("saw");
-            words.Add("imminent");
-            words.Add("quarrelsome");
+            StreamReader reader = new StreamReader("words.txt");
+
+            while (!reader.EndOfStream)
+            {
+                if (reader.ReadLine().Length>=3)
+                {
+                    words.Add(reader.ReadLine());
+                }                
+            }
             return words;
         }
         public string SelectWord(List<string> words)
