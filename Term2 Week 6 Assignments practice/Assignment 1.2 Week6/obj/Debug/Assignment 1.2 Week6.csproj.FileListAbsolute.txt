@@ -1,0 +1,7 @@
+C:\Users\lemon\source\repos\Term 2 prog assignments week6\Assignment 1.2 Week6\bin\Debug\Assignment 1.2 Week6.exe.config
+C:\Users\lemon\source\repos\Term 2 prog assignments week6\Assignment 1.2 Week6\bin\Debug\Assignment 1.2 Week6.exe
+C:\Users\lemon\source\repos\Term 2 prog assignments week6\Assignment 1.2 Week6\bin\Debug\Assignment 1.2 Week6.pdb
+C:\Users\lemon\source\repos\Term 2 prog assignments week6\Assignment 1.2 Week6\obj\Debug\Assignment 1.2 Week6.csprojAssemblyReference.cache
+C:\Users\lemon\source\repos\Term 2 prog assignments week6\Assignment 1.2 Week6\obj\Debug\Assignment 1.2 Week6.csproj.CoreCompileInputs.cache
+C:\Users\lemon\source\repos\Term 2 prog assignments week6\Assignment 1.2 Week6\obj\Debug\Assignment 1.2 Week6.exe
+C:\Users\lemon\source\repos\Term 2 prog assignments week6\Assignment 1.2 Week6\obj\Debug\Assignment 1.2 Week6.pdb
